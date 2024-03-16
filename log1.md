@@ -1,15 +1,3 @@
-# Heading1
-## Heading2
-*Italic*
-**Bold**
-~~Strike through~~
-[URL name](URL link)
-![Alt text](/path/to/image.jpg "Title")
-* - + Bullet points
-1.2.3. Bullet numbers
-
-
-
 # GEOM99 Web GIS
 ## Technical Activity Log 1 - Week 10
 
