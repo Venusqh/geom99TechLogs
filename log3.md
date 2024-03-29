@@ -54,7 +54,7 @@
       + Able to successfully update live data! 
     - NASA FIRMS import with KML
       + KML/KMZ are static files, cannot be directly used to update live data to AGOL the same way as dynamic feature services. 
-      + ![Google Earth Pro](https://Venusqh.github.io/geom99TechLogs/log3fig2.JPG) supports auto-refresh, but ArcGIS Dashboards doesn't support
+      + ![Google Earth Pro](https://Venusqh.github.io/geom99TechLogs/log3fig2.jpg) supports auto-refresh, but ArcGIS Dashboards doesn't support
       + Insert URL: https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_USA_contiguous_and_Hawaii_24h.kml
       + This one doesn't work for live
       + A Web Feature Service (WFS) is primarily a feature access service, also includes elements of a feature type service, a coordinate conversion/transformation service and a geographic format conversion service. 
